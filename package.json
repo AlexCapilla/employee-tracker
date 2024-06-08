@@ -1,5 +1,5 @@
 {
-    "name": "employee-tracker-woot",
+    "name": "employee-tracker",
     "version": "1.0.0",
     "description": "a fun command-line app that tracks employees!",
     "main": "index.js",
